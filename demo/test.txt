@@ -1,0 +1,1 @@
+python demo/image_demo.py demo/airplane/ningbo.png configs/airplane/001_mask_rcnn_PLANE.py --weights checkpoints/airplane_mmrcnn_mask_v1.pth --out-dir demo/outputs/plane
